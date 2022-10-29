@@ -24,10 +24,10 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week   | Day | Lesson | Homework |
 |:-----:|:---:|:------:|:------:|
 | Week 1| 1   |---|--- |
-| Week 1| 2   |[Web development introduction](https://github.com/Tuwaiq-Java/Week-01-Day-01)|--- |
-| Week 1| 3   |[Java basics](https://github.com/Tuwaiq-Java/Week-01-Day-02)|[Homework 1](https://github.com/Tuwaiq-Java/Week-01-day-02-hw)|
-| Week 1| 4   |[Arrays-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-03)|[Homework 2](https://github.com/Tuwaiq-Java/Week-01-day-03-hw)|
-| Week 1| 5   |[Exceptions- Programming paradigms ](https://github.com/Tuwaiq-Java/Week-01-Day-04)|[Homework 3](https://github.com/Tuwaiq-Java/week-01-day-04-hw)|
+| Week 1| 2   |[Introduction Backend Development](https://github.com/Tuwaiq-Java/Week-01-Day-01)|--- |
+| Week 1| 3   |[JavaScript Nodemon-Express-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)|[Homework 1](https://github.com/Tuwaiq-Java/Week-01-day-02-hw)|
+| Week 1| 4   |[Route structure](https://github.com/Tuwaiq-Java/Week-01-Day-03)|[Homework 2](https://github.com/Tuwaiq-Java/Week-01-day-03-hw)|
+| Week 1| 5   |[Basic Express Server ](https://github.com/Tuwaiq-Java/Week-01-Day-04)|[Homework 3](https://github.com/Tuwaiq-Java/week-01-day-04-hw)|
 | Week 2| 1   |[Static keywords-Access modifiers  OOP principles](https://github.com/Tuwaiq-Java/Week-01-Day-05) | [Project 1](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
 | Week 2| 2   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Java/Week-02-Day-01)| [Homework 5](https://github.com/Tuwaiq-Java/week-02-day-01-hw)|
 | Week 2| 3   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)| [Homework 6](https://github.com/Tuwaiq-Java/week-02-day-02-hw)|
