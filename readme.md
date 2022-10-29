@@ -5,7 +5,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 9am - 5pm  |
+| Class | Sun - Thurs  | 10am - 3pm  |
 
 
 ## What We Expect From You
