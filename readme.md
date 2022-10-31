@@ -24,7 +24,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week   | Day | Lesson |
 |:-----:|:---:|:------:|
 | Week 1| 1   |---|--- |
-| Week 1| 2   |[Introduction Backend Development](https://github.com/Tuwaiq-Java/Week-01-Day-01)|--- |
+| Week 1| 2   |[Introduction Backend Development](https://github.com/Tuwaiq-Academy-Training/Javascript-Bootcamp-Week-01-Day-01)|--- |
 | Week 1| 3   |[JavaScript Nodemon-Express-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)|
 | Week 1| 4   |[Route structure](https://github.com/Tuwaiq-Java/Week-01-Day-03)|
 | Week 1| 5   |[Basic Express Server ](https://github.com/Tuwaiq-Java/Week-01-Day-04)|
