@@ -44,5 +44,5 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 4| 4   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 4| 5   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 5| 1   |[Final project 4](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
-| Week 5| 2   |[Final project presentation](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
+| Week 5| 2   |[Final project presentation](https://github.com/Ttuwaiq-Java/Week-04-Day-05)|---|
 
