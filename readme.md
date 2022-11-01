@@ -24,10 +24,10 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week   | Day | Lesson |
 |:-----:|:---:|:------:|
 | Week 1| 1   |[Introduction Backend Development](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)|--- |
-| Week 1| 2   |[node.js-npm-Introduction to Express](https://github.com/Tuwaiq-Academy-Training/Js-Node.js-NPM-Introduction-to-Express)|
-| Week 1| 3   |[express intermediate](https://github.com/Tuwaiq-Academy-Training/js-express-intermediate)|
-| Week 1| 4   |[advanced express.js ](https://github.com/Tuwaiq-Academy-Training/advanced-express.js)|
-| Week 1| 5   |[express-validator ](https://github.com/Tuwaiq-Academy-Training/express-validator)|
+| Week 1| 2   |[node js](https://github.com/Tuwaiq-Academy-Training/Js-Node.js-NPM-Introduction-to-Express)|
+| Week 1| 3   |[express introduction](https://github.com/Tuwaiq-Academy-Training/js-express-intermediate)|
+| Week 1| 4   |[express intermediate](https://github.com/Tuwaiq-Academy-Training/advanced-express.js)|
+| Week 1| 5   |[express  advance](https://github.com/Tuwaiq-Academy-Training/express-validator)|
 | Week 2| 1   |[Static keywords-Access modifiers  OOP principles](https://github.com/Tuwaiq-Java/Week-01-Day-05) | 
 | Week 2| 2   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Java/Week-02-Day-01)| 
 | Week 2| 3   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)| 
