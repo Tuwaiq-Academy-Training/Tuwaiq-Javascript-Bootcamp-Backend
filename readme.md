@@ -28,7 +28,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 1| 3   |[Express Introduction](https://github.com/Tuwaiq-Academy-Training/js-express-introduction)|
 | Week 1| 4   |[Advanced-Express](https://github.com/Tuwaiq-Academy-Training/advanced-express.js)|
 | Week 1| 5   |[Express Validator](https://github.com/Tuwaiq-Academy-Training/express-validator)|
-| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Java/Week-01-Day-05) | 
+| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) | 
 | Week 2| 2   |[Prisma Introduction](https://github.com/Tuwaiq-Java/Week-02-Day-01)| 
 | Week 2| 3   |[Prisma Intermediate](https://github.com/Tuwaiq-Java/Week-02-Day-02)| 
 | Week 2| 4   |[Error Handling](https://github.com/Tuwaiq-Java/Week-02-Day-03)| 
