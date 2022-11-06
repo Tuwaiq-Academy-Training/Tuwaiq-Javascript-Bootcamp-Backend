@@ -28,11 +28,11 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 1| 3   |[Express Introduction](https://github.com/Tuwaiq-Academy-Training/js-express-introduction)|
 | Week 1| 4   |[Advanced-Express](https://github.com/Tuwaiq-Academy-Training/advanced-express.js)|
 | Week 1| 5   |[Express Validator](https://github.com/Tuwaiq-Academy-Training/express-validator)|
-| Week 2| 1   |[Static Keywords-Access modifiers  OOP principles](https://github.com/Tuwaiq-Java/Week-01-Day-05) | 
-| Week 2| 2   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Java/Week-02-Day-01)| 
-| Week 2| 3   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)| 
-| Week 2| 4   |[Lombok-Validation-Service](https://github.com/Tuwaiq-Java/Week-02-Day-03)| 
-| Week 2| 5   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-04)| 
+| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Java/Week-01-Day-05) | 
+| Week 2| 2   |[Prisma Introduction](https://github.com/Tuwaiq-Java/Week-02-Day-01)| 
+| Week 2| 3   |[Prisma Intermediate](https://github.com/Tuwaiq-Java/Week-02-Day-02)| 
+| Week 2| 4   |[Error Handling](https://github.com/Tuwaiq-Java/Week-02-Day-03)| 
+| Week 2| 5   |[Full Stack Application](https://github.com/Tuwaiq-Java/Week-02-Day-04)| 
 | Week 3| 1   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)| 
 | Week 3| 2   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/week-03-day-01)| 
 | Week 3| 3   |[JPQL](https://github.com/Tuwaiq-Java/week-03-day-02)| 
