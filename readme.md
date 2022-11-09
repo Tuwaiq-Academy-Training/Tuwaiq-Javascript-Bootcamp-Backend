@@ -33,7 +33,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 3   |[Prisma Intermediate](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
 | Week 2| 4   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)| 
 | Week 2| 5   |[Full Stack Application](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)| 
-| Week 3| 1   |[JWT](https://github.com/Tuwaiq-Java/Week-02-Day-05)| 
+| Week 3| 1   |[JWT](https://github.com/Tuwaiq-Academy-Training/JWT.js)| 
 | Week 3| 2   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/week-03-day-01)| 
 | Week 3| 3   |[JPQL](https://github.com/Tuwaiq-Java/week-03-day-02)| 
 | Week 3| 4   |[Relationship](https://github.com/Tuwaiq-Java/Week-03-Day-03)| 
