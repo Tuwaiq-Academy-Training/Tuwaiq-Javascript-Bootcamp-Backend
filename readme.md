@@ -38,11 +38,5 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 3| 3   |[JPQL](https://github.com/Tuwaiq-Java/week-03-day-02)| 
 | Week 3| 4   |[Relationship](https://github.com/Tuwaiq-Java/Week-03-Day-03)| 
 | Week 3| 5   |[Exceptions handling ,logs tracking](https://github.com/Tuwaiq-Java/Week-03-Day-04)| 
-| Week 4| 1   |[Exercises](https://github.com/Tuwaiq-Java/Week-03-Day-05)| 
-| Week 4| 2   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Java/Week-04-Day-01)|---|
-| Week 4| 3   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 4   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 5   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 1   |[Final project 4](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
-| Week 5| 2   |[Final project presentation](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
+
 
