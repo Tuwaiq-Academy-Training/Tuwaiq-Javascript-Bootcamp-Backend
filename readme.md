@@ -32,7 +32,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 2   |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)| 
 | Week 2| 3   |[Prisma Intermediate](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
 | Week 2| 4   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)| 
-| Week 2| 5   |[Hashing](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)| 
+| Week 2| 5   |[Hashing-cors](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)| 
 | Week 3| 1    |[authenticator-authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
 | Week 3| 2   |[Argon2](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
 | Week 3| 3   |[cors](https://github.com/Tuwaiq-Academy-Training/cors.js)| 
