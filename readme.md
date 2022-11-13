@@ -34,7 +34,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 4   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)| 
 | Week 2| 5   |[Hashing-cors](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)| 
 | Week 3| 1    |[authenticator-authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
-| Week 3| 2   |[Argon2](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
+| Week 3| 2   |[deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
 | Week 3| 3   |[cors](https://github.com/Tuwaiq-Academy-Training/cors.js)| 
 | Week 3| 4   |[Relationship](https://github.com/Tuwaiq-Java/Week-03-Day-03)| 
 | Week 3| 5   |[Exceptions handling ,logs tracking](https://github.com/Tuwaiq-Java/Week-03-Day-04)| 
