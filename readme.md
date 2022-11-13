@@ -36,7 +36,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 3| 1    |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
 | Week 3| 2   |[Deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
 | Week 3| 3   |[Full Stack Application](https://github.com/Tuwaiq-Academy-Training/cors.js)| 
-| Week 3| 4   |[Final project](https://github.com/Tuwaiq-Java/Week-03-Day-03)| 
-| Week 3| 5   |[Final project](https://github.com/Tuwaiq-Java/Week-03-Day-04)| 
+| Week 3| 4   |[Final Project](https://github.com/Tuwaiq-Java/Week-03-Day-03)| 
+| Week 3| 5   |[Final Project](https://github.com/Tuwaiq-Java/Week-03-Day-04)| 
 
 
