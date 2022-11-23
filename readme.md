@@ -31,7 +31,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 1   |[Zod](https://github.com/Tuwaiq-Academy-Training/Zod)|
 | Week 2| 2   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) | 
 | Week 2| 3   |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)| 
-| Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training)|--- |
+| Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-Javascript-Bootcamp-Backend)|--- |
 | Week 2| 5   |[Prisma Intermediate](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
 | Week 3| 1   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)|  
 | Week 3| 2   |[Hashing-Cors](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)|
