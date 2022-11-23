@@ -31,12 +31,13 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 1   |[Zod](https://github.com/Tuwaiq-Academy-Training/Zod)|
 | Week 2| 2   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) | 
 | Week 2| 3   |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)| 
-| Week 2| 4   |[Prisma Intermediate](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
-| Week 2| 5   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)|  
-| Week 3| 1   |[Hashing-Cors](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)|
-| Week 3| 2   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
-| Week 3| 3   |[Deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
-| Week 3| 4   |[Full Stack Application](https://github.com/Tuwaiq-Academy-Training/cors.js)| 
-| Week 3| 5   |[Final Project](https://github.com/Tuwaiq-Java/Week-03-Day-04)| 
+| Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)|--- |
+| Week 2| 5   |[Prisma Intermediate](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
+| Week 3| 1   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)|  
+| Week 3| 2   |[Hashing-Cors](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)|
+| Week 3| 3   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
+| Week 3| 4   |[Deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
+| Week 3| 5   |[Full Stack Application](https://github.com/Tuwaiq-Academy-Training/cors.js)| 
+
 
 
