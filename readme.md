@@ -38,7 +38,6 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 3| 3   |[Hashing-Cors](https://github.com/Tuwaiq-Academy-Training/Hashing-Cors)|
 | Week 3| 4   |[Error Handling](https://github.com/Tuwaiq-Academy-Training/Error-Handling)| 
 | Week 3| 5   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
-| Week 4| 1   |[Deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
-
-
+| Week 4| 1   |[Deployment](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)|
+| Week 4| 2   |[Deployment](https://github.com/Tuwaiq-Academy-Training/JWT.js)|
 
